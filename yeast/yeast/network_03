@@ -1,0 +1,329 @@
+add_vertex YKR081C
+add_vertex YDL051W
+add_vertex YGR030C
+add_vertex YKL181W
+add_vertex YPL012W
+add_vertex YPL198W
+add_vertex YDR087C
+add_vertex YGR245C
+add_vertex YDR489W
+add_vertex YDR204W
+add_vertex YPR016C
+add_vertex YLR432W
+add_vertex YPL211W
+add_vertex YBR142W
+add_vertex YFR031C
+add_vertex YPL043W
+add_vertex YHR088W
+add_vertex YLL045C
+add_vertex YOR206W
+add_vertex YKL021C
+add_vertex YDL031W
+add_vertex YER006W
+add_vertex YMR259C
+add_vertex YJL109C
+add_vertex YNL221C
+add_vertex YLR196W
+add_vertex YOL120C
+add_vertex YFR001W
+add_vertex YAL035W
+add_vertex YER126C
+add_vertex YBL004W
+add_vertex YPL131W
+add_vertex YLR145W
+add_vertex YBL060W
+add_vertex YNL061W
+add_vertex YOL127W
+add_vertex YNL182C
+add_vertex YOL041C
+add_vertex YKL014C
+add_vertex YDL082W
+add_vertex YLL034C
+add_vertex YGL099W
+add_vertex YMR290C
+add_vertex YKL210W
+add_vertex YOR272W
+add_vertex YDR060W
+add_vertex YHR062C
+add_vertex YER036C
+add_vertex YGL076C
+add_vertex YMR229C
+add_vertex YLR009W
+add_vertex YJL072C
+add_vertex YNL002C
+add_vertex YOL077C
+add_vertex YDR013W
+add_vertex YLR002C
+add_vertex YBL018C
+add_vertex YAL033W
+add_vertex YER002W
+add_vertex YDR101C
+add_vertex YOR063W
+add_vertex YMR049C
+add_vertex YGR255C
+add_vertex YLR029C
+add_vertex YGL111W
+add_vertex YBR061C
+add_vertex YFL002C
+add_vertex YCR072C
+add_vertex YHL011C
+add_vertex YGL147C
+add_vertex YHR052W
+add_vertex YOR094W
+add_vertex YER099C
+add_vertex YKL009W
+add_vertex YNL132W
+add_vertex YDR091C
+add_vertex YGR103W
+add_vertex YDR415C
+add_vertex YLR074C
+add_vertex YOR129C
+add_vertex YPL093W
+add_vertex YDL014W
+add_vertex YBR167C
+add_vertex YOL096C
+add_vertex YOR125C
+add_vertex YPL183C
+add_vertex YBR257W
+add_vertex YNL110C
+add_vertex YMR242C
+add_vertex YLR106C
+add_vertex YOR184W
+add_vertex YNR053C
+add_vertex YOL146W
+add_vertex YLR197W
+add_vertex YHR066W
+add_vertex YLR175W
+add_vertex YLR276C
+add_vertex YNL282W
+add_vertex YIR015W
+add_vertex YHL034C
+add_vertex YLL008W
+add_vertex YDR496C
+add_vertex YOL061W
+add_vertex YHR197W
+add_vertex YDR478W
+add_vertex YKL172W
+add_vertex YEL053C
+add_vertex YCR020C
+add_vertex YPR051W
+add_edge 9 84 0.7
+add_edge 2 46 0.75
+add_edge 82 86 0.95625
+add_edge 56 97 0.75
+add_edge 86 32 0.75
+add_edge 46 24 0.825
+add_edge 72 3 0.657
+add_edge 86 46 0.9125
+add_edge 57 86 0.9125
+add_edge 57 56 0.65
+add_edge 83 84 0.7
+add_edge 56 86 0.75
+add_edge 57 82 0.75
+add_edge 107 106 0.9125
+add_edge 62 83 0.7
+add_edge 24 97 0.95625
+add_edge 106 108 0.957125
+add_edge 57 2 0.65
+add_edge 2 24 0.65
+add_edge 9 71 0.85
+add_edge 68 3 0.91425
+add_edge 86 98 0.825
+add_edge 54 8 0.91425
+add_edge 33 65 0.75
+add_edge 86 2 0.825
+add_edge 77 43 0.65
+add_edge 57 24 0.75
+add_edge 86 24 0.825
+add_edge 86 104 0.825
+add_edge 71 79 0.755
+add_edge 8 51 0.32
+add_edge 54 92 0.5
+add_edge 82 2 0.755
+add_edge 57 46 0.825
+add_edge 65 22 0.75
+add_edge 8 92 0.485
+add_edge 82 46 0.96875
+add_edge 65 85 0.75
+add_edge 86 97 0.825
+add_edge 82 24 0.9125
+add_edge 104 46 0.65
+add_edge 107 108 0.9175
+add_edge 43 90 0.75
+add_edge 57 97 0.75
+add_edge 54 51 0.175
+add_edge 46 32 0.75
+add_edge 104 24 0.9125
+add_edge 46 97 0.9175
+add_edge 72 102 0.7599
+add_edge 48 26 0.75
+add_edge 53 12 0.785
+add_edge 48 76 0.75
+add_edge 100 15 0.785
+add_edge 4 15 0.9175
+add_edge 38 15 0.785
+add_edge 74 15 0.785
+add_edge 76 53 0.9175
+add_edge 17 10 0.75
+add_edge 16 10 0.9175
+add_edge 61 15 0.785
+add_edge 28 48 0.75
+add_edge 48 80 0.75
+add_edge 96 15 0.785
+add_edge 53 10 0.825
+add_edge 103 10 0.785
+add_edge 34 53 0.785
+add_edge 64 53 0.75
+add_edge 17 15 0.75
+add_edge 13 15 0.785
+add_edge 101 10 0.9175
+add_edge 7 10 0.785
+add_edge 93 15 0.785
+add_edge 20 10 0.9175
+add_edge 89 15 0.75
+add_edge 34 44 0.785
+add_edge 64 34 0.75
+add_edge 70 10 0.785
+add_edge 23 15 0.75
+add_edge 6 44 0.785
+add_edge 13 64 0.75
+add_edge 66 53 0.75
+add_edge 91 10 0.9175
+add_edge 103 53 0.75
+add_edge 37 53 0.785
+add_edge 44 15 0.785
+add_edge 42 10 0.9175
+add_edge 58 10 0.75
+add_edge 44 80 0.785
+add_edge 100 53 0.75
+add_edge 101 15 0.785
+add_edge 18 15 0.785
+add_edge 76 10 0.9921875
+add_edge 64 31 0.75
+add_edge 64 18 0.75
+add_edge 53 18 0.75
+add_edge 0 44 0.9175
+add_edge 64 61 0.9175
+add_edge 13 48 0.75
+add_edge 63 53 0.75
+add_edge 45 44 0.785
+add_edge 30 15 0.9175
+add_edge 21 44 0.785
+add_edge 52 15 0.785
+add_edge 101 44 0.75
+add_edge 55 53 0.75
+add_edge 59 10 0.785
+add_edge 18 10 0.785
+add_edge 15 80 0.785
+add_edge 0 10 0.785
+add_edge 61 53 0.9175
+add_edge 19 10 0.785
+add_edge 21 53 0.75
+add_edge 64 94 0.75
+add_edge 100 10 0.9175
+add_edge 64 80 0.9175
+add_edge 61 10 0.96875
+add_edge 20 53 0.75
+add_edge 47 10 0.75
+add_edge 94 10 0.75
+add_edge 107 48 0.75
+add_edge 80 10 0.96875
+add_edge 6 64 0.75
+add_edge 21 10 0.9175
+add_edge 87 10 0.9175
+add_edge 53 80 0.785
+add_edge 64 76 0.785
+add_edge 70 15 0.9175
+add_edge 21 15 0.785
+add_edge 64 10 0.785
+add_edge 50 10 0.75
+add_edge 45 53 0.785
+add_edge 42 53 0.75
+add_edge 73 44 0.75
+add_edge 52 44 0.785
+add_edge 13 44 0.785
+add_edge 55 44 0.785
+add_edge 64 42 0.75
+add_edge 1 10 0.75
+add_edge 95 15 0.75
+add_edge 25 53 0.9125
+add_edge 105 53 0.9125
+add_edge 105 44 0.75
+add_edge 52 53 0.75
+add_edge 73 10 0.9175
+add_edge 73 53 0.75
+add_edge 75 48 0.75
+add_edge 64 87 0.9175
+add_edge 49 15 0.75
+add_edge 101 53 0.75
+add_edge 37 15 0.785
+add_edge 16 53 0.75
+add_edge 49 44 0.75
+add_edge 53 31 0.75
+add_edge 16 44 0.785
+add_edge 94 15 0.75
+add_edge 18 44 0.785
+add_edge 101 64 0.75
+add_edge 42 44 0.785
+add_edge 100 44 0.785
+add_edge 64 44 0.785
+add_edge 48 18 0.75
+add_edge 48 64 0.75
+add_edge 27 10 0.9175
+add_edge 61 44 0.997320313
+add_edge 64 0 0.75
+add_edge 70 53 0.785
+add_edge 53 44 0.9175
+add_edge 81 10 0.75
+add_edge 39 44 0.75
+add_edge 17 44 0.75
+add_edge 53 60 0.785
+add_edge 64 16 0.785
+add_edge 87 44 0.9175
+add_edge 49 53 0.9125
+add_edge 66 44 0.75
+add_edge 70 44 0.96875
+add_edge 45 48 0.75
+add_edge 36 10 0.785
+add_edge 76 44 0.999023438
+add_edge 40 53 0.75
+add_edge 53 35 0.75
+add_edge 44 12 0.785
+add_edge 99 53 0.75
+add_edge 27 53 0.65
+add_edge 60 10 0.785
+add_edge 35 15 0.75
+add_edge 64 12 0.75
+add_edge 67 10 0.75
+add_edge 44 5 0.75
+add_edge 41 10 0.9125
+add_edge 52 10 0.9175
+add_edge 39 53 0.75
+add_edge 15 5 0.75
+add_edge 40 44 0.75
+add_edge 87 15 0.785
+add_edge 44 31 0.75
+add_edge 29 10 0.96875
+add_edge 78 10 0.75
+add_edge 53 5 0.75
+add_edge 6 53 0.785
+add_edge 53 15 0.9175
+add_edge 6 10 0.785
+add_edge 76 15 0.9175
+add_edge 88 53 0.75
+add_edge 48 16 0.75
+add_edge 34 15 0.785
+add_edge 69 10 0.75
+add_edge 0 53 0.785
+add_edge 34 10 0.9175
+add_edge 45 15 0.785
+add_edge 44 10 0.785
+add_edge 42 15 0.9175
+add_edge 60 15 0.75
+add_edge 48 11 0.75
+add_edge 55 10 0.9175
+add_edge 87 53 0.9175
+add_edge 64 70 0.75
+add_edge 17 53 0.75
+add_edge 31 10 0.9175
+add_edge 20 44 0.75

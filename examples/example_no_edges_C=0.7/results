@@ -1,0 +1,25 @@
+Cluster Editing Optimal Solution
+score: 0.000
+number of clusters: 7
+cost for ghost: 0.700
+
+The clustered network:
+7 vertices:
+YGL097W 1
+YLR335W 2
+YOR089C 3
+YNL090W 4
+YNL314W 5
+YJR066W 6
+YKL014C 7
+
+Clustering statistics for the 7 clusters:
+Average weight of an edge within clusters: 0.000
+Average weight of an edge between clusters: 0.000
+Cluster 1 score: 0.000 diameter: 0
+Cluster 2 score: 0.000 diameter: 0
+Cluster 3 score: 0.000 diameter: 0
+Cluster 4 score: 0.000 diameter: 0
+Cluster 5 score: 0.000 diameter: 0
+Cluster 6 score: 0.000 diameter: 0
+Cluster 7 score: 0.000 diameter: 0

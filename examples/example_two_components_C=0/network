@@ -1,0 +1,13 @@
+add_vertex YGL097W
+add_vertex YLR335W
+add_edge 0 1 0.98
+add_vertex YOR089C
+add_edge 1 2 0.2
+add_vertex YNL090W
+add_vertex YNL314W
+add_edge 2 0 0.25
+add_vertex YJR066W
+add_vertex YKL014C
+add_edge 6 5 0.3
+add_edge 4 5 0.786
+add_edge 4 6 0.56

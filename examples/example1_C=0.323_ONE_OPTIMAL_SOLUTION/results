@@ -1,0 +1,29 @@
+Cluster Editing Optimal Solution
+score: 1.155
+number of clusters: 3
+cost for ghost: 0.323
+
+The clustered network:
+7 vertices:
+YGL097W 2
+YLR335W 2
+YOR089C 3
+YNL090W 1
+YNL314W 1
+YJR066W 1
+YKL014C 1
+7 edges:
+YGL097W-YLR335W 0.981
+YLR335W-YOR089C 0.254
+YOR089C-YNL314W 0.255
+YNL090W-YNL314W 0.857
+YNL314W-YJR066W 0.786
+YNL314W-YKL014C 0.565
+YJR066W-YKL014C 0.356
+
+Clustering statistics for the 3 clusters:
+Average weight of an edge within clusters: 0.709
+Average weight of an edge between clusters: 0.255
+Cluster 1 score: 2.564 diameter: 2
+Cluster 2 score: 0.981 diameter: 1
+Cluster 3 score: 0.000 diameter: 0

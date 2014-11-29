@@ -1,0 +1,61 @@
+add_vertex YBL060W
+add_vertex YCR020C
+add_vertex YDL122W
+add_vertex YDR013W
+add_vertex YDR204W
+add_vertex YDR279W
+add_vertex YDR415C
+add_edge 3 4 0.1658548
+add_edge 6 0 0.425846548
+add_vertex YDR489W
+add_edge 3 7 0.9142584
+add_vertex YEL053C
+add_vertex YER131W
+add_vertex YGL155W
+add_vertex YHL011C
+add_vertex YHR083W
+add_vertex YIR022W
+add_vertex YJL072C
+add_vertex YJL208C
+add_vertex YJR010C
+add_vertex YKL210W
+add_vertex YKR079C
+add_vertex YLR154C
+add_vertex YLR167W
+add_vertex YLR435W
+add_vertex YML055W
+add_edge 3 14 0.937558475
+add_edge 6 17 0.7556856
+add_edge 1 8 0.9125568
+add_vertex YMR099C
+add_vertex YNL026W
+add_vertex YOL146W
+add_vertex YOR094W
+add_vertex YOR129C
+add_vertex YOR184W
+add_vertex YPL183C
+add_edge 16 15 0.458934579
+add_edge 16 22 0.652334
+add_edge 13 16 0.895428
+add_edge 13 21 0.344322
+add_edge 2 20 0.754295
+add_edge 2 10 0.33458
+add_edge 12 24 0.8754
+add_edge 1 29 0.222543
+add_edge 0 26 0.652348
+add_edge 26 14 0.21567
+add_edge 26 27 0.75558454
+add_edge 9 21 0.825347
+add_edge 9 20 0.17383
+add_edge 5 19 0.65356784
+add_edge 15 18 0.937538
+add_edge 7 14 0.912583
+add_edge 3 25 0.758368
+add_edge 18 23 0.87538
+add_edge 15 23 0.7535856
+add_edge 12 23 0.245685468
+add_edge 17 28 0.7584564
+add_vertex YPR051W
+add_edge 1 30 0.93754568
+add_edge 8 30 0.957125
+add_edge 11 30 0.346856

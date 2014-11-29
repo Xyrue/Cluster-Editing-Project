@@ -1,0 +1,75 @@
+Cluster Editing Optimal Solution
+score: 4.252
+number of clusters: 16
+cost for ghost: 1.000
+
+The clustered network:
+27 vertices:
+YCR020CA 10
+YDL090C 4
+YDL122W 7
+YDR032C 11
+YDR204W 1
+YEL053C 2
+YER099C 8
+YGL155W 12
+YGL189C 9
+YGR255C 13
+YHR083W 5
+YIR022W 3
+YJL072C 6
+YJL208C 14
+YJR010CA 3
+YKL019W 4
+YKL181W 8
+YKR094C 7
+YLR167W 15
+YLR435W 9
+YML055W 16
+YNL026W 5
+YOL096C 1
+YOL146W 6
+YOR125C 1
+YPL183C 10
+YPR051W 2
+20 edges:
+YCR020CA-YEL053C 0.912
+YCR020CA-YPL183C 0.230
+YDL090C-YDR032C 0.200
+YDL090C-YKL019W 0.877
+YDL122W-YGL155W 0.300
+YDL122W-YKR094C 0.750
+YDL122W-YLR167W 0.750
+YDR204W-YOR125C 0.700
+YDR204W-YOL096C 0.850
+YEL053C-YPR051W 0.957
+YER099C-YKL181W 0.657
+YGL189C-YLR435W 0.650
+YGR255C-YOL096C 0.700
+YHR083W-YNL026W 0.875
+YIR022W-YJR010CA 0.895
+YIR022W-YLR435W 0.340
+YJL072C-YOL146W 0.875
+YJL208C-YJR010CA 0.400
+YJR010CA-YML055W 0.650
+YOL096C-YOR125C 0.700
+
+Clustering statistics for the 16 clusters:
+Average weight of an edge within clusters: 0.751
+Average weight of an edge between clusters: 0.531
+Cluster 1 score: 2.250 diameter: 1
+Cluster 2 score: 0.957 diameter: 1
+Cluster 3 score: 0.895 diameter: 1
+Cluster 4 score: 0.877 diameter: 1
+Cluster 5 score: 0.875 diameter: 1
+Cluster 6 score: 0.875 diameter: 1
+Cluster 7 score: 0.750 diameter: 1
+Cluster 8 score: 0.657 diameter: 1
+Cluster 9 score: 0.650 diameter: 1
+Cluster 10 score: 0.230 diameter: 1
+Cluster 11 score: 0.000 diameter: 0
+Cluster 12 score: 0.000 diameter: 0
+Cluster 13 score: 0.000 diameter: 0
+Cluster 14 score: 0.000 diameter: 0
+Cluster 15 score: 0.000 diameter: 0
+Cluster 16 score: 0.000 diameter: 0

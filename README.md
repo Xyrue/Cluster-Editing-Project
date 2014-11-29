@@ -1,7 +1,7 @@
 Cluster Editing Project
 =======================
 
-An implementation of an algorithm that solves the clustering editing project using ILP (integer linear programming).
+A C implementation of an algorithm that solves the clustering editing project using ILP (integer linear programming).
 
 ### Introduction
 Over the last decade high throughput technologies for measuring biological data have become available, changing the landscape of biological research. This enables, for the first time, a global, simultaneous view of proteins behavior and function. 
